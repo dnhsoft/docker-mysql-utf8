@@ -1,5 +1,6 @@
 # docker-mysql-utf8
 Inherits the standard mysql image and adds utf-8 support.
+See https://hub.docker.com/_/mysql/ for more details.
 
 ```
 mysql> show variables like "%character%";
